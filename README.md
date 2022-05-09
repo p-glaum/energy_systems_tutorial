@@ -76,7 +76,7 @@ It will take some time!
 After the `conda` environment is installed you can activate the environment with the following command:
 
 ```bash
-conda activate es-tutorials
+conda activate es-tutorial
 ```
 
 
@@ -84,7 +84,7 @@ Now with the activated environment, you can open a Jupyter Notebook with the fol
 
 ```bash
 cd /path/where/your/tutorial/folder/should/be
-cd ES_tutorial
+cd Notebooks
 jupyter lab
 ```
 
@@ -92,7 +92,7 @@ or
 
 ```bash
 cd /path/where/your/tutorial/folder/should/be
-cd ES_tutorial
+cd Notebooks
 jupyter notebook
 ```
 
