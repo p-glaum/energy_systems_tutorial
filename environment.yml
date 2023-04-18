@@ -1,20 +1,5 @@
 channels:
     - conda-forge
-    - defaults
 dependencies:
-
-    - python
-    - pip
-
-    # notebooks
-    - jupyterlab
-
-    # utilities
-    - numpy
-    - pandas
-    - networkx
-    - matplotlib
-
     # optimisation
-    - pyomo
     - glpk
