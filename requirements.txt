@@ -1,5 +1,4 @@
 # notebooks
-jupyter
 jupyterlab
 # utilities
 ipython
