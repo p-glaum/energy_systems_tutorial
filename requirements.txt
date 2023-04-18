@@ -8,4 +8,4 @@ networkx
 matplotlib
 # optimisation
 pyomo
-glpk
+ipopt
