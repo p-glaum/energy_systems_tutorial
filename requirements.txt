@@ -1,0 +1,12 @@
+# notebooks
+jupyter
+jupyterlab
+# utilities
+ipython
+numpy
+pandas
+networkx
+matplotlib
+# optimisation
+pyomo
+glpk
